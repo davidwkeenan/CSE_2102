@@ -1,0 +1,8 @@
+To compile:
+    mvn clean compile
+
+To run tests:
+    mvn test
+
+To run code:
+    mvn exec:java -Dexec.mainclass="c.HybridCar"
